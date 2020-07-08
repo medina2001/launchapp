@@ -21,6 +21,7 @@
 ###### Features
 - [ ] CloudKit
 - [ ] CoreML
+- [ ] CoreData
 - [ ] Sign In With Apple
 - [ ] Sign In (Prórpio)
 - [ ] Sticker Pack (Opcional)
