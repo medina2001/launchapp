@@ -5,8 +5,13 @@
 ## Um app iOS (swift) para testar conceitos da HIG (Human Interface Guidelines) e Autolayout.
 
 ### Para Fazer
-- [ ] Tela de Login
-- [ ] Tela de Cadastro
-- [ ] Tela do Feed
-- [ ] Tela de Comentários
-- [ ] Tela do Usuário
+###### Telas
+- [ ] Login
+- [ ] Cadastro
+- [ ] Feed
+- [ ] Comentários
+- [ ] Favoritos (Salvos)
+- [ ] Notificações
+- [ ] Novo post
+- [ ] Usuário
+- [ ] Usuário (outra pessoa)
