@@ -10,11 +10,17 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var login: UIButton!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+//      cornerRadius Login button
+        login.layer.cornerRadius = 8
+        login.layer.masksToBounds = true
     }
 
+    
 
 }
 
