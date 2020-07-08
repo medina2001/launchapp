@@ -6,6 +6,7 @@
 
 ### Para Fazer
 ###### Telas
+- [ ] Launchscreen
 - [ ] Login
 - [ ] Cadastro
 - [ ] Feed
@@ -15,3 +16,11 @@
 - [ ] Novo post
 - [ ] Usuário
 - [ ] Usuário (outra pessoa)
+- [ ] Animacões (transições e ações)
+
+###### Features
+- [ ] CloudKit
+- [ ] CoreML
+- [ ] Sign In With Apple
+- [ ] Sign In (Prórpio)
+- [ ] Sticker Pack (Opcional)
